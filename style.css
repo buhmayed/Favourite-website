@@ -1,0 +1,49 @@
+h1 {
+    font-style: italic;
+    
+}
+
+html {
+    margin: auto;
+    text-align: center;
+    background-size: cover;
+    background: url(images/background.jpg);
+
+}
+
+body { 
+
+    border-radius: 43px;
+    background: #5086ce;
+    box-shadow:  18px 18px 29px #3a6296,
+            -18px -18px 29px #66aaff;
+    border-radius: 25px;
+    margin-top: 100px;
+    background-color: rgba(49, 220, 226, 0.719);
+    width: 600px;
+    margin: 20px auto;
+    border: 3px solid;
+    padding: 30px 70px;
+    color: black
+
+
+}
+
+#abt {
+    color: rgb(244, 247, 245);
+
+}
+
+.titles:hover {
+    color: rgb(18, 165, 104);
+
+}
+
+.link:hover {
+    color: #5086ce;
+
+}
+
+
+
+
